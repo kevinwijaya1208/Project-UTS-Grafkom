@@ -30,7 +30,7 @@ public class Main {
     public void init() {
         window.init();
         GL.createCapabilities();
-        camera.setPosition(0.0f,0.0f,4.0f);
+        camera.setPosition(-1.0f,0.0f,6.0f);
         camera.setRotation((float)Math.toRadians(0.0f),(float)Math.toRadians(0.0f));
         glEnable(GL_DEPTH_TEST);
         mouseInput = window.getMouseInput();
