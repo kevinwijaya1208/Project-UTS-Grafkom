@@ -9,4 +9,4 @@ Gabriel Evan Delwyn - C14210190 (Kelas A)
 
 Link Laporan Grafkom Kelompok 8: 
 
-Link Video Grafkom Kelompok 8:
+Link Video Grafkom Kelompok 8: https://youtu.be/phwdEUeWBcM
